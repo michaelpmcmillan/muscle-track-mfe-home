@@ -2,10 +2,9 @@
 
 Micro frontend home page
 
+```bash
 npm install --global create-single-spa
 npx create-single-spa
-
-```bash
 .
 single-spa application / parcel
 react
